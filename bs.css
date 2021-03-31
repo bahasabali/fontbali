@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'balisimbar';
+    src: url('bali simbar.eot');
+    src: url('bali simbar.eot?#iefix') format('embedded-opentype'),
+         url('bali simbar.woff2') format('woff2'),
+         url('bali-simbar.woff') format('woff'),
+         url('bali simbar.ttf') format('truetype'),
+         url('bali-simbar.svg#bali simbarregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}

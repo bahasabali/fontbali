@@ -2,6 +2,10 @@
     font-family:'balisimbarplus';
     src: url('balixdjn.ttf') format('truetype'),
          url('balixdjb.ttf') format('truetype'),
+        url('balixdjn.woff2') format('woff2'),
+         url('balixdjn.woff') format('woff'),
+        url('balixdjb.woff2') format('woff2'),
+         url('balixdjb.woff') format('woff'),
     font-weight: normal;
     font-style: normal;
     font-size: 20px;

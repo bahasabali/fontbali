@@ -1,0 +1,9 @@
+@font-face {
+    font-family:'balisimbarplus';
+    src: url('balixdjn.ttf') format('truetype'),
+         url('balixdjb.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
